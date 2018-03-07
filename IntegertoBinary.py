@@ -1,5 +1,5 @@
 
-
+#The code is optimized for Python 3
 #Following program converts decimal numbers to its binary form
 #It only takes input as an integer and not floating value
 
