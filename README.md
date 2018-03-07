@@ -8,4 +8,5 @@ This repository contains Micro and Mini projects for the novice Python learners.
 - Mad libs generator
 
 ### Execution of codes
-- It can be executed using command prompt, Jupyter Notebook, or any other Python IDEs 
+- It can be executed using command prompt, Jupyter Notebook, or any other Python IDEs you are comfortable with
+
