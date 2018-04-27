@@ -4,7 +4,6 @@ This repository contains Micro and Mini projects for the novice Python learners.
 
 - Integer to Binary converter
 - Random number generator
-- Guess the number
 - Mad libs generator
 
 ### Execution of codes
