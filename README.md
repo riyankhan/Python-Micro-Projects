@@ -1,6 +1,6 @@
 # Python Mini Projects
 
-This repository contains Micro and Mini projects for the novice Python learners. The codes are optimized for Python 3 and it should work on Python 2 as well with some modifications.
+This repository contains Micro and Mini projects for the novice Python learners. The codes are optimized for Python 3 and it should work on Python 2 as well but with some modifications.
 
 - Integer to Binary converter
 - Random number generator
