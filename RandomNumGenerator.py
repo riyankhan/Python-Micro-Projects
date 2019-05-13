@@ -12,3 +12,9 @@ elif user_answer == "n":
     print("No??...It's okay :(")
 else:
     print("Error: Enter Y or N silly!")
+    
+    
+import random
+list  = ['Riyan','Prachi','Swathy','Akhilesh','Arvind']
+print("random.choice() to select random item from list - ", random.choice(list))
+print("\nrandom.choice() to select random item from list - ", random.choice(list))
